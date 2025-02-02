@@ -575,12 +575,9 @@ html,body{
 }
 .calculator__slider{
     width: 300px;
-
-
 }
 .calculator__result{
     width: 300px;
-
     border-radius: 30px;
 }
 .calculator__description{
@@ -612,16 +609,17 @@ html,body{
 .calculator__logic{
     width: 113%;
 }
-}
 .calculator__counter-minusButton {
     width: 30px;
-    height: 30px;
+    height: 35px;
     font-size: 25px;
 }
 .calculator__counter-plusButton {
     width: 30px;
-    height: 30px;
+    height: 35px;
     font-size: 25px;
+}
+
 }
 
 
