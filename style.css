@@ -565,8 +565,7 @@ html,body{
 }
 .calculator__counter{
     width: 300px;
-    height: 25%;
-    padding: 15px;
+    padding: 20px;
 }
 .calculator__counter-interacrtive{
     display: flex;
@@ -576,12 +575,12 @@ html,body{
 }
 .calculator__slider{
     width: 300px;
-    height: 25%;
+
 
 }
 .calculator__result{
     width: 300px;
-    height: 25%;
+
     border-radius: 30px;
 }
 .calculator__description{
@@ -592,7 +591,7 @@ html,body{
 }
 .calculator__result-image{
     width: 162px;
-    height: 114px;
+
 }
 .calculator__counter-title{
     font-size: 20px;
@@ -614,5 +613,16 @@ html,body{
     width: 113%;
 }
 }
+.calculator__counter-minusButton {
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+}
+.calculator__counter-plusButton {
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+}
+
 
 
